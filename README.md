@@ -5,7 +5,7 @@
 
 
 
-<h1>***Aquí se encuentra el código del proyecto correspondiente al team Los pitufos de la Programación, el cual esta basado en crear una app para el registro remoto de los hoteles dandole facilidad y dinamismo a esta acción.
+***Aquí se encuentra el código del proyecto correspondiente al team Los pitufos de la Programación, el cual esta basado en crear una app para el registro remoto de los hoteles dandole facilidad y dinamismo a esta acción.
 Esto genera una experiencia confortable tanto para el empresario dueño del hotel como para el cliente que quiere facildades a la hora de disfrutar su estadia en el recinto.***
 
 
@@ -13,13 +13,13 @@ Esto genera una experiencia confortable tanto para el empresario dueño del hote
 
 ***Python como lenguaje del código ya que posee una sintaxis amplia y legible.***
 
-***PostgreSQL como base de datos debido a su gran rendimiento y flexibilidad.*** </h1>
+***PostgreSQL como base de datos debido a su gran rendimiento y flexibilidad.***
 
 
 
  <<h2>Desarrolladores: </h2> 
 
-
+<h3>
 Santiago Mañas
 
 Luciano Quinteros
@@ -34,7 +34,7 @@ Mayra Manzaneda
 
 Ana Castello
 
-Luciana Baigorria**
+Luciana Baigorria** <h/3>
 
 
 
