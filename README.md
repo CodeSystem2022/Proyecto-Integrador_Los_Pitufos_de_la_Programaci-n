@@ -8,8 +8,9 @@ Esto genera una experiencia confortable tanto para el empresario dueño del hote
 
 ***Para dicho proyecto se utilizo:***
 
-***Python como lenguaje del código ya que posee una sintaxis amplia y legible.
-PostgreSQL como base de datos debido a su gran rendimiento y flexibilidad.***
+***Python como lenguaje del código ya que posee una sintaxis amplia y legible.***
+
+***PostgreSQL como base de datos debido a su gran rendimiento y flexibilidad.***
 
 
 **Desarrolladores:
