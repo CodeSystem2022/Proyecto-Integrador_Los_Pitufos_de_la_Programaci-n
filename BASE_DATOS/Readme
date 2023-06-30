@@ -1,1 +1,84 @@
+                                            TRANSACCIONES EN BASE DE DATOS 
+
+import psycopg2 as bd 
+#Se crea para un Registro
+conexion= bd.connect(
+    user= 'postgres',
+    password= 'admin',
+    host='127.0.0.1',
+    port='5432',
+    database='Hotel'
+)
+try:
+    cursor =conexion.cursor()
+    sentencia= 'INSERT INTO persona(habitacion, fecha, tipohabitacion, estado) VALUES (%s, %s, %s)'
+    valores= ('Maria','Esparza', 'mesparza@mail.com')
+    cursor.execute(sentencia, valores)
+    print('Termina la transaccion')
+except Exception as e:
+    conexion.rollback()
+    print(f'Ocurrio un error, se hizo un rollback: {e}')
+finally:
+    conexion.close()
+
+-----------------------------------------------------------------------------------------------
+ 
+import psycopg2 as bd 
+# Insertar varios registros
+conexion= bd.connect(
+    user= 'postgres',
+    password= 'admin',
+    host='127.0.0.1',
+    port='5432',
+    database='Hotel'
+)
+try:
+    conexion.autocommit= False
+    cursor =conexion.cursor()
+    sentencia= 'INSERT INTO persona(nombre, apellido, email) VALUES (%s, %s, %s)'
+    valores= ('Carlos','Lara', 'clara@mail.com')
+    cursor.execute(sentencia, valores)
+    
+    sentencia='UPDATE persona SET nombre=%s, apellido=%s, email=%s WHERE id_persona= %s'
+    valores= ('Juan', 'Prol', 'jprol@mail.com', 1)
+    cursor.execute(sentencia, valores)
+
+    conexion.commit()#Hacemos el comit manualmente
+    print('Termina la transaccion')
+except Exception as e:
+    conexion.rollback()
+    print(f'Ocurrio un error, se hizo un rollback: {e}')
+finally:
+    conexion.close()
+ 
+-----------------------------------------------------------------------------------------------
+
+import psycopg2 as bd 
+# Insertar varios registros
+conexion= bd.connect(
+    user= 'postgres',
+    password= 'admin',
+    host='127.0.0.1',
+    port='5432',
+    database='Hotel'
+)
+try:
+    with conexion:
+        with conexion.cursor() as cursor:
+                conexion.autocommit= False 
+                cursor =conexion.cursor()
+                sentencia= 'INSERT INTO persona(nombre, apellido, email) VALUES (%s, %s, %s)'
+                valores= ('Alex','Rojas', 'jrojas@mail.com')
+                cursor.execute(sentencia, valores)
+                
+                sentencia='UPDATE persona SET nombre=%s, apellido=%s, email=%s WHERE id_persona= %s'
+                valores= ('Juan Carlos', 'Roldan', 'jcroldan@mail.com', 1)
+                cursor.execute(sentencia, valores)
+
+except Exception as e:
+    print(f'Ocurrio un error, se hizo un rollback: {e}')
+finally:
+    conexion.close()
+    
+print('Termina la transaccion')
 
