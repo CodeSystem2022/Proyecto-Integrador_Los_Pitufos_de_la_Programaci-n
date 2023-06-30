@@ -20,6 +20,7 @@ Esto genera una experiencia confortable tanto para el empresario dueño del hote
  <<h2>Desarrolladores: </h2> 
 
 <h3>
+ 
 Santiago Mañas
 
 Luciano Quinteros
@@ -34,7 +35,7 @@ Mayra Manzaneda
 
 Ana Castello
 
-Luciana Baigorria** <h/3>
+Luciana Baigorria** </h3>
 
 
 
