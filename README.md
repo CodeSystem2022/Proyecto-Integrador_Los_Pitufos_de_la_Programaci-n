@@ -1,7 +1,7 @@
 # Proyecto-Integrador_Los_Pitufos_de_la_Programación
 
  
- <a href='https://espana.ladevi.info/registro-reservas/registro-reservas-los-hoteles-aliviados-la-prorroga-n51325'/></a>
+<div img <a href='https://espana.ladevi.info/registro-reservas/registro-reservas-los-hoteles-aliviados-la-prorroga-n51325'/></a>
 </div>
 
 ***Aquí se encuentra el código del proyecto correspondiente al team Los pitufos de la Programación, el cual esta basado en crear una app para el registro remoto de los hoteles dandole facilidad y dinamismo a esta acción.
