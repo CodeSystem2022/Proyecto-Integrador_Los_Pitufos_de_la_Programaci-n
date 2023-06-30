@@ -1,7 +1,6 @@
 # Proyecto-Integrador_Los_Pitufos_de_la_Programación
 
-
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/mrBnpw3X/lo-que-las-fotos-de-los-hoteles-y-lugares-paradisiacos-no-te-muestran-expectativas-vs-realidad-3-1.jpg' border='0' alt='lo-que-las-fotos-de-los-hoteles-y-lugares-paradisiacos-no-te-muestran-expectativas-vs-realidad-3-1'/></a>
+<a href='https://postimg.cc/p5ZVZVNb' target='_blank'><img src='https://i.postimg.cc/V5ySz5D6/Pic-Monkey-Collage-hotel2.jpg' border='0' alt='Pic-Monkey-Collage-hotel2'/></a>
 
 
 
