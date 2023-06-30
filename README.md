@@ -1,5 +1,11 @@
 # Proyecto-Integrador_Los_Pitufos_de_la_Programación
 
+<div imag
+![image](https://github.com/CodeSystem2022/Proyecto-Integrador_Los_Pitufos_de_la_Programaci-n/assets/92487756/cf1ce61c-9d84-483d-8488-1329011da2ed)>
+
+</div>
+
+
 
 
 ***Aquí se encuentra el código del proyecto correspondiente al team Los pitufos de la Programación, el cual esta basado en crear una app para el registro remoto de los hoteles dandole facilidad y dinamismo a esta acción.
