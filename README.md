@@ -16,6 +16,7 @@ Esto genera una experiencia confortable tanto para el empresario dueño del hote
 ***PostgreSQL como base de datos debido a su gran rendimiento y flexibilidad.***
 
 
+
 **Desarrolladores:
 
 Santiago Mañas
@@ -34,4 +35,6 @@ Ana Castello
 
 Luciana Baigorria**
 
+
+![BestHotelInYanceyvilleAccommodationGIF (2)](https://github.com/CodeSystem2022/Proyecto-Integrador_Los_Pitufos_de_la_Programaci-n/assets/92487756/b95f54ad-4701-4bdb-ba4d-cc30fa1265c9)
 
