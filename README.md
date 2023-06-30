@@ -17,7 +17,8 @@ Esto genera una experiencia confortable tanto para el empresario dueño del hote
 
 
 
-<center> <<h2>**Desarrolladores: </h2> </center>
+ <<h2>**Desarrolladores: </h2> 
+
 
 Santiago Mañas
 
