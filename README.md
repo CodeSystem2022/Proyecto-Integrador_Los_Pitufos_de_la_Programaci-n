@@ -6,8 +6,9 @@
 Esto genera una experiencia confortable tanto para el empresario dueño del hotel como para el cliente que quiere facildades a la hora de disfrutar su estadia en el recinto.***
 
 
-***Para dicho proyecto se utilizo:
-Python como lenguaje del código hya que posee una sintaxis amplia y legible.
+***Para dicho proyecto se utilizo:***
+
+***Python como lenguaje del código ya que posee una sintaxis amplia y legible.
 PostgreSQL como base de datos debido a su gran rendimiento y flexibilidad.***
 
 
