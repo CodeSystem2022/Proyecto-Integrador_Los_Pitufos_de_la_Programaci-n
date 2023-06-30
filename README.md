@@ -9,7 +9,10 @@ Esto genera una experiencia confortable tanto para el empresario dueño del hote
 Para dicho proyecto se utilizo:
 Python como lenguaje del código hya que posee una sintaxis amplia y legible.
 PostgreSQL como base de datos debido a su gran rendimiento y flexibilidad.
+
+
 Desarrolladores:
+
 Santiago Mañas
 Luciano Quinteros
 Ezequiel Garcia
