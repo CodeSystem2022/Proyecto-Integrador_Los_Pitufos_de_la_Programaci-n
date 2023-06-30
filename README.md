@@ -9,7 +9,7 @@ Python como lenguaje del código hya que posee una sintaxis amplia y legible.
 PostgreSQL como base de datos debido a su gran rendimiento y flexibilidad.
 
 
-Desarrolladores:
+**Desarrolladores:
 
 Santiago Mañas
 
@@ -25,4 +25,4 @@ Mayra Manzaneda
 
 Ana Castello
 
-Luciana Baigorria
+Luciana Baigorria**
