@@ -16,6 +16,7 @@ Esto genera una experiencia confortable tanto para el empresario dueño del hote
 ***PostgreSQL como base de datos debido a su gran rendimiento y flexibilidad.***
 
 
+***Como método de trabajo, se utilizo Scrum ya que nos permitio ser multidiciplinarios, autodirigidos y gozar de libertad para planear tiempos y organizar formas de trabajo***
 
  <<h2>Desarrolladores: </h2> 
 
