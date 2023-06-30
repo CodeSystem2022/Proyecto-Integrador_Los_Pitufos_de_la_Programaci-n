@@ -1,5 +1,5 @@
 import psycopg2 #Esto es para poder conectarnos a Postgre
-#Crear registros
+#Crear registros s
 conexion= psycopg2.connect(
     user= 'postgres',
     password= 'admi',
