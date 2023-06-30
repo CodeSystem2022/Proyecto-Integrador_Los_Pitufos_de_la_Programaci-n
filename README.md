@@ -14,10 +14,17 @@ PostgreSQL como base de datos debido a su gran rendimiento y flexibilidad.
 Desarrolladores:
 
 Santiago Mañas
+
 Luciano Quinteros
+
 Ezequiel Garcia
+
 Jorge de la Plata
+
 Maira Gimenez
+
 Mayra Manzaneda
+
 Ana Castello
+
 Luciana Baigorria
