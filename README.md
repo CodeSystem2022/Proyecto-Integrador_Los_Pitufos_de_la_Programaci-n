@@ -1,9 +1,7 @@
 # Proyecto-Integrador_Los_Pitufos_de_la_Programación
 
-<div imag
-![image](https://github.com/CodeSystem2022/Proyecto-Integrador_Los_Pitufos_de_la_Programaci-n/assets/92487756/cf1ce61c-9d84-483d-8488-1329011da2ed)>
 
-</div>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/mrBnpw3X/lo-que-las-fotos-de-los-hoteles-y-lugares-paradisiacos-no-te-muestran-expectativas-vs-realidad-3-1.jpg' border='0' alt='lo-que-las-fotos-de-los-hoteles-y-lugares-paradisiacos-no-te-muestran-expectativas-vs-realidad-3-1'/></a>
 
 
 
