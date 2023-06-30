@@ -36,5 +36,6 @@ Ana Castello
 Luciana Baigorria**
 
 
-![BestHotelInYanceyvilleAccommodationGIF (2)](https://github.com/CodeSystem2022/Proyecto-Integrador_Los_Pitufos_de_la_Programaci-n/assets/92487756/b95f54ad-4701-4bdb-ba4d-cc30fa1265c9)
+
+   ![BestHotelInYanceyvilleAccommodationGIF (2)](https://github.com/CodeSystem2022/Proyecto-Integrador_Los_Pitufos_de_la_Programaci-n/assets/92487756/b95f54ad-4701-4bdb-ba4d-cc30fa1265c9)
 
